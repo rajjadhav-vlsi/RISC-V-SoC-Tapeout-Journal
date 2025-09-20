@@ -3,7 +3,7 @@ RISC-V SoC TapeOut Training by The VSD team!!
 <br> 
 Welcome to my journey through the VSD-HDP program! This repository serves as a personal journal, documenting my progress, key learnings, and the outcomes of my work throughout the training.
 
-# Day 0: Tools Installation
+# Week 0: Tools Installation
 
 ## :computer: System Requirements
 
@@ -18,7 +18,7 @@ Before starting with the training, the following system requirements were verifi
 
 ## :hammer_and_wrench: Tool Installation Status
 
-The following is a summary of the tools installed. The installation steps were followed as provided by the VSD team and verified to be successful.
+The following is a summary of the tools installed. The installation steps were followed as provided by the VSD team.
 
 ### Yosys
 
